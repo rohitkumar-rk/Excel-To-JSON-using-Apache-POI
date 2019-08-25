@@ -8,8 +8,8 @@ public class ExcelToJsonApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExcelToJsonApplication.class, args);
-		ConvertExcelToJson convert = new ConvertExcelToJson();
-		convert.convertExcelToJson();
+//		ConvertExcelToJson convert = new ConvertExcelToJson();
+//		convert.convertExcelToJson();
 	}
 
 }
